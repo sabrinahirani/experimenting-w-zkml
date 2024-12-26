@@ -1,0 +1,9 @@
+[package]
+name = "experimenting-w-zkml"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bellman = "0.14.0"
+ndarray = "0.15"
+rand = "0.8"
